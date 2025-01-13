@@ -1,23 +1,23 @@
 {
-  "version": "0.1.31",
+  "version": "0.1.32",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-01-13T15:17:09.655Z",
+  "pub_date": "2025-01-13T15:25:12.093Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.31/gitaurora_aarch64.app.tar.gz"
+      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.32/gitaurora_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkJwRXZobGRLaHh1eTZYdGppdmNGL1Z6bkJqdlVNaFZMV0FlSEprZHVjbTUxNkQ3M2lTNnF1NG9BVVBrak5jOFExMVRnN1BrSTN4YlNaakNMOFZhVlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2NzgxMzQwCWZpbGU6Z2l0YXVyb3JhLmFwcC50YXIuZ3oKL2l0R3hHdis2cEhnV1lZeW1aZ2pHTGl1dENlaHFqVk9McXV5U1dZYjVucEVWR2w2amxGWCt2M3FUa1dReDRsRkJJazkvL0k4ck92amduUXhGc0FUQXc9PQo=",
-      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.31/gitaurora_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNklrVW10RGpIYWF3ZURocDhGd25SLzdlRTN6OVJkcW1ZV1A2QUZPUTRyRW92SGZjdHRGZWxEcTdPaTMrZkxrTk1nV2dxVDJ6T29uaDRPWWdaTTI2MXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2NzgxODQzCWZpbGU6Z2l0YXVyb3JhLmFwcC50YXIuZ3oKRi9DWCtMTkdzTE52cTE3Q29ibmZOalVzYXR0RlRGTEZpUXZYZkd1dlNTWDhCNmZKVzliYXNaOVJBQzh1Q3J1YUN0VUFsMzBhYWNWVmtlUEJjMVIzQmc9PQo=",
+      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.32/gitaurora_x64.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.31/gitaurora_0.1.31_amd64.AppImage"
+      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.32/gitaurora_0.1.32_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.31/gitaurora_0.1.31_x64_en-US.msi"
+      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.32/gitaurora_0.1.32_x64_en-US.msi"
     }
   }
 }

@@ -1,23 +1,23 @@
 {
-  "version": "0.1.44",
+  "version": "0.1.47",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-01-19T15:53:26.003Z",
+  "pub_date": "2025-01-19T16:57:45.037Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNk5qVnpSeUF0Z3llQS9NUmZqaEVHNnNycXI5UWNaNllidVNkcjl2MFBrdzBvSWlGSGQvMEwydFJrTHhwd0I1R3JqWm9oaUF4bFJmeDNZOGdaODZaYmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzAxNDg3CWZpbGU6Z2l0YXVyb3JhLmFwcC50YXIuZ3oKdnpRN0Q2SHdGa0tsanQ5R01aaElZVEx4UHZXU29QMGg1WnNGRk1XbVkvRlJDMGpWdTFrYlhFa3RSWHlCbGFQMVk4Q2FQbHVCeFpKMWFCSnBGM1BoRHc9PQo=",
-      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.44/gitaurora_aarch64.app.tar.gz"
-    },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNlB3TjdmamoydUIwcUM4VHgvQU1Db0J4MFAwUjBGL2U5UmxQNmwydXlBZnV5SjlHSldlT3Y4MXRDZmxkSnFJbmt5VzZuRlRHclZtUWZzc2lFRGt1N3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzAxNTEyCWZpbGU6Z2l0YXVyb3JhLmFwcC50YXIuZ3oKOHQzK2FQcXZJMHdEVzR2RldKZFpiRzBaZlF0azZUczgwN3ZjUzErb1dwZzJubkR5WUd2YWZqWHhOK2RodmtJaWpVNzByL3VwYTVmUEZ5MkFwV29ZQ2c9PQo=",
-      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.44/gitaurora_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNk9Nd2Z1bWl4SXlvZllZa1hMV1JRWHRRcXlMZ2pIUXliTjBXVXpPd09udExhalY2U0pQVDlWM3dnMk5pUDZCTmpTelJXby93dGowZ2oxaTA4a1pJRXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzA1NDE5CWZpbGU6Z2l0YXVyb3JhLmFwcC50YXIuZ3oKOHFQRFUzay90MzdiQ3FxV2YxOFU3dzc1UFYzSzFZd2FpMWYvTE0ycEU2M0RucVJ2Si9CUmFJL044cXVMYVlNeGFnTWJ0emJQejdGRG5TazNWdmFmQmc9PQo=",
+      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.47/gitaurora_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNk83T21PSk5RbG5nNnVsMUpCbDIxN01xU3dPMU1xbVp3eXoyYm9KaEIyRFBUN096UDliQWlSVUcxVmt1WXRoaEF5MzhqaDByU2Z3T2hUOEVTREdUQlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzA1NDU1CWZpbGU6Z2l0YXVyb3JhLmFwcC50YXIuZ3oKbzFpQ1VWaDcwSHZhS0pZOEVidzhFTjdLNGtPT2ZHbFdmOTdPbU1DcDdpT2JNU3d5MHoxK0Y5RzRrL3hkTzNnWlhtOFNOMGxLZ3hBZExIMzl2NlYzRGc9PQo=",
+      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.47/gitaurora_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkExWUV6RkRjUWRwQ2NadGFzc1Z5SEEySWtER05yMDEwcGhpYkhUb0dCYmVxREZrTEFaRnBSVU12dGk5VWpVd3R4NEhhdDdsdVpNZGQ4ZjRaRUk0R2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzAxNjcwCWZpbGU6Z2l0YXVyb3JhXzAuMS40NF9hbWQ2NC5BcHBJbWFnZQpydHVBUnB4eForbHNCeXlsNDhqNnErV29NRVlsOFE1cHlBUzFHKzBBTnF1bCtwRWF2bDhHaktJNTJPU3VNS2RDcEVxUTF4SjNtUFVhdU85bVlEQkxEdz09Cg==",
-      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.44/gitaurora_0.1.44_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkxGMjhYdjV3RngxdWdJaktnMXVyTEFYdmt3bnFVdVNBc2VPZmhDSUpOTVUwR1k5VjBFa3oycFp0WWZobFFNVC9nbGJLeW9rZll1a0tMeVkyaXg2aVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzA1NjE5CWZpbGU6Z2l0YXVyb3JhXzAuMS40N19hbWQ2NC5BcHBJbWFnZQo4aGtxcnpkM0F5MGVyNEg3cFd0WWY3L2UyWGxHZ0hRWEpmVWMyU3IxVmxtb09JTFo3V3lIbm84enp4UGRUU2NjNXlpamVzaEhQYUNXS0lVYWZGaVRDdz09Cg==",
+      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.47/gitaurora_0.1.47_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkZQWGhObG1KdEJ2VHArbWVveHJhRWN3WTU0S1hDWkFIaUY2dVdCaCtURytaYnB1UGM3MzVDVGZ0MUFzYWFpQVBGaFFEVVNOMHlQNHcyM1JoRi9pMmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzAyMDAzCWZpbGU6Z2l0YXVyb3JhXzAuMS40NF94NjRfZW4tVVMubXNpCktGSlpkanZUNUhXSnZyRTlNOHc5aTlVUFUreENMY1ZHL04xM0kxTzJWMTd1SkY5NE1oMm1maXlRK3FZQ3NOcW5pK0VDKzFVSE94c3E0VVF6MUhrMUFnPT0K",
-      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.44/gitaurora_0.1.44_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkxQcDJPcmZDQXNZL2h3ZEszSWpSMy9PdFBFSlErZXgzNXA0ZkVYUTJTRS9OYzM1TitNeEh4am5rOHY1ZUFjSnYwR05NT0l2b1UwR0RtOXNJckJCVmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzA1ODYyCWZpbGU6Z2l0YXVyb3JhXzAuMS40N194NjRfZW4tVVMubXNpCkF6bXdwMGxCckQxUmNmSy9KYlRyQVh1R1BLRlZWWUc5aW9tZnYrdTQwd29YdGxmUUNPRGxPNG9hemhlWjQ0N2NacWtUQU9mL0tjWkJIdUE2YVlhU0F3PT0K",
+      "url": "https://github.com/monsieursam/gitaurora-release/releases/download/app-v0.1.47/gitaurora_0.1.47_x64_en-US.msi"
     }
   }
 }
